@@ -1,0 +1,17 @@
+{
+    "name": "juliengidel/manday",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jugid",
+            "email": "gidjulien@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Manday\\": "src/"
+        }
+    }
+}

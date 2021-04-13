@@ -8,7 +8,7 @@ class Manday {
 
     private $data;
 
-    private const API_TOKEN = 'eyJhbGciOiJIUzI1NiJ9.eyJ0aWQiOjEwNjIyNzAzNiwidWlkIjoyMTQzODExMCwiaWFkIjoiMjAyMS0wNC0xMlQxNzoyNjoxNC4wMDBaIiwicGVyIjoibWU6d3JpdGUiLCJhY3RpZCI6ODcxOTg3NiwicmduIjoidXNlMSJ9.t8_CyXtPCW0aWX0_SS3vmGlQZSN7VUz_iUrVe8tZjTE';
+    private const API_TOKEN = '';
 
     private $parameters = [
         'header'=>[
